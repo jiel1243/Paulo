@@ -549,6 +549,12 @@ body {
     background: var(--primary-pink);
     transform: translateX(-5px);
 }
+.gallery-date {
+    display: block;
+    font-size: 14px;
+    color: #888;
+    margin-top: 5px;
+}
 
 @media (max-width: 600px) {
     .container {
